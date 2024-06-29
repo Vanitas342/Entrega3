@@ -91,7 +91,7 @@ def mostrar_en_ventana(carretera, collage, nombres):
 
 def generar_collage():
     # Directorio de entrada de las imágenes (se debe cambiar dependiendo de dónde esté guardada la carpeta)
-    ubi_imagenes = "C:/Users/nicoc/OneDrive/Documentos/Entrega 3/Imagenes Entrega 3"
+    ubi_imagenes = "C:/Users/nicoc/OneDrive/Documentos/Entrega 3/Imagenes-Entrega-3"
 
     # Obtener la lista de carpetas en el directorio
     if not os.path.exists(ubi_imagenes):

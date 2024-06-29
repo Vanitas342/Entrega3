@@ -87,7 +87,7 @@ def mostrar_en_ventana_alt(carretera, collage, nombres):
 
 # Genera un collage de imágenes a partir de un directorio dado (se debe cambiar dependiendo de dónde esté guardada la carpeta)
 def generar_collage_alt():
-    ubi_imagenes = "C:/Users/nicoc/OneDrive/Documentos/Entrega 3/Imagenes Entrega 3"
+    ubi_imagenes = "C:/Users/nicoc/OneDrive/Documentos/Entrega 3/Imagenes-Entrega-3"
 
     if not os.path.exists(ubi_imagenes):
         print(f"El directorio {ubi_imagenes} no existe.")
